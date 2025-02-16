@@ -1,0 +1,929 @@
+[
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 1,
+            "name": "Sit up",
+            "description": "A core exercise where you lie on your back and raise your torso to a sitting position.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 2,
+            "name": "Crunch cable",
+            "description": "A variation of the crunch performed on a cable machine to target the core.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 3,
+            "name": "Crunch machine",
+            "description": "A machine that helps to perform crunches for abdominal strengthening.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 4,
+            "name": "Decline crunch",
+            "description": "A crunch performed on a decline bench to intensify the movement.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 5,
+            "name": "Leg raise",
+            "description": "An exercise to target the lower abdominals by lifting the legs while lying down.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 6,
+            "name": "Ab-Wheel Rollout",
+            "description": "An exercise using an ab wheel to roll forward, targeting the core.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 7,
+            "name": "Hanging knee raise",
+            "description": "A hanging exercise where you raise your knees to your chest, targeting the core.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 8,
+            "name": "Hanging leg raise",
+            "description": "Similar to the knee raise but performed by raising the legs straight out, targeting the lower abs.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 9,
+            "name": "Plank",
+            "description": "A core stabilization exercise where you hold your body in a straight line while resting on your forearms and toes.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 10,
+            "name": "Side plank",
+            "description": "A variation of the plank where you lie on your side and support your body with one arm, targeting the obliques.",
+            "muscle_group": "Abdominals"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 11,
+            "name": "Barbell row",
+            "description": "A compound exercise performed by pulling a barbell towards your torso, targeting the back muscles.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 12,
+            "name": "Barbell Shrug",
+            "description": "A movement where you elevate your shoulders with a barbell, targeting the trapezius muscles.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 13,
+            "name": "Chin up",
+            "description": "A pulling exercise where you lift your body using a chin-up bar, palms facing towards you.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 14,
+            "name": "Deadlift",
+            "description": "A full-body compound exercise where you lift a barbell from the floor to the hips.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 15,
+            "name": "Dumbbell row",
+            "description": "A unilateral exercise where you pull a dumbbell towards your torso while bending over, targeting the back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 16,
+            "name": "Face pulls",
+            "description": "A cable exercise targeting the upper back and rear deltoids by pulling the rope towards your face.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 17,
+            "name": "Good morning",
+            "description": "A hip-hinge movement using a barbell to strengthen the posterior chain, primarily the hamstrings and lower back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 18,
+            "name": "Hammer strength row",
+            "description": "A machine-based rowing exercise designed to target the back muscles.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 19,
+            "name": "Lat pulldown",
+            "description": "A machine exercise where you pull a bar down to your chest, targeting the latissimus dorsi muscles.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 20,
+            "name": "Machine shrug",
+            "description": "A machine-based exercise to target the trapezius muscles by elevating the shoulders.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 21,
+            "name": "Neutral chin up",
+            "description": "A variation of the chin-up with palms facing each other, targeting the biceps and back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 22,
+            "name": "Pendlay row",
+            "description": "A barbell rowing movement performed from the floor, emphasizing the explosive power of the back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 23,
+            "name": "Pull up",
+            "description": "A bodyweight exercise where you lift your body on a bar, palms facing away from you, primarily targeting the back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 24,
+            "name": "Rack pull",
+            "description": "A variation of the deadlift where you pull the bar from a rack at knee level, targeting the back and posterior chain.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 25,
+            "name": "Seated cable row",
+            "description": "A machine exercise where you pull a cable towards your torso while sitting down, targeting the back.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 26,
+            "name": "T-bar row",
+            "description": "A rowing exercise performed using a T-bar machine, targeting the back muscles.",
+            "muscle_group": "Back"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 27,
+            "name": "Barbell curl",
+            "description": "A classic bicep exercise where you curl a barbell upwards, targeting the biceps.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 28,
+            "name": "Cable curl",
+            "description": "A bicep exercise performed on a cable machine, using a rope or bar attachment to curl the weight.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 29,
+            "name": "Dumbbell curl",
+            "description": "A bicep exercise where you curl a dumbbell towards your shoulder, targeting the biceps.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 30,
+            "name": "Dumbbell hammer curl",
+            "description": "A variation of the bicep curl using dumbbells, palms facing each other, targeting the brachialis and forearms.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 31,
+            "name": "Dumbbell preacher curl",
+            "description": "A bicep curl performed on a preacher bench using dumbbells to isolate the biceps.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 32,
+            "name": "EZ-bar curl",
+            "description": "A curl exercise performed using an EZ-bar to reduce stress on the wrists, targeting the biceps.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 33,
+            "name": "EZ-bar preacher curl",
+            "description": "A preacher curl using an EZ-bar to focus on the biceps and minimize cheating during the lift.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 34,
+            "name": "Seated incline dumbbell curl",
+            "description": "A bicep curl performed on an inclined bench using dumbbells, isolating the biceps with a full range of motion.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 35,
+            "name": "Seated machine curl",
+            "description": "A bicep curl exercise performed on a machine, focusing on controlled movements and isolation of the biceps.",
+            "muscle_group": "Biceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 36,
+            "name": "Cycling",
+            "description": "A cardiovascular exercise performed on a stationary bike or outdoors, targeting the legs and cardiovascular system.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 37,
+            "name": "Degrees",
+            "description": "A cardiovascular exercise on a machine with adjustable resistance, focusing on lower body endurance.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 38,
+            "name": "Elliptical Trainer",
+            "description": "A low-impact cardiovascular machine that simulates running, focusing on both the upper and lower body.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 39,
+            "name": "Rowing Machine",
+            "description": "A full-body cardiovascular exercise using a rowing machine, targeting the back, legs, and arms.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 40,
+            "name": "Running (Outdoor)",
+            "description": "Running outdoors as a cardiovascular exercise, primarily engaging the legs and improving endurance.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 41,
+            "name": "Running (Treadmill)",
+            "description": "Running on a treadmill, a cardiovascular exercise that targets the legs and improves cardiovascular endurance.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 42,
+            "name": "Stationary bike",
+            "description": "Cycling on a stationary bike, a low-impact cardiovascular exercise targeting the legs.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 43,
+            "name": "Swimming",
+            "description": "A full-body exercise performed in water, offering a low-impact cardiovascular workout.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 44,
+            "name": "Walking",
+            "description": "A low-impact, weight-bearing exercise that promotes cardiovascular health and engages the legs.",
+            "muscle_group": "Cardio"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 45,
+            "name": "Cable crossover",
+            "description": "An exercise performed on a cable machine that targets the chest, shoulders, and triceps.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 46,
+            "name": "Decline barbell bench press",
+            "description": "A variation of the bench press performed on a decline bench, targeting the lower chest.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 47,
+            "name": "Decline hammer strength chest press",
+            "description": "A machine-based chest press performed on a decline bench, targeting the lower chest.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 48,
+            "name": "Flat barbell bench press",
+            "description": "A classic chest exercise performed on a flat bench, targeting the pectoral muscles.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 49,
+            "name": "Flat dumbbell bench press",
+            "description": "A dumbbell variation of the bench press performed on a flat bench, targeting the chest muscles.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 50,
+            "name": "Flat dumbbell fly",
+            "description": "A chest exercise performed with dumbbells on a flat bench, targeting the chest through a wide arc movement.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 51,
+            "name": "Incline barbell bench press",
+            "description": "A bench press performed on an incline bench, targeting the upper portion of the chest.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 52,
+            "name": "Incline dumbbell bench press",
+            "description": "An incline bench press performed with dumbbells, targeting the upper chest muscles.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 53,
+            "name": "Incline dumbbell fly",
+            "description": "A chest fly performed on an incline bench using dumbbells, targeting the upper chest.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 54,
+            "name": "Incline hammer strength chest press",
+            "description": "A machine-based chest press performed on an incline, targeting the upper chest muscles.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 55,
+            "name": "Seated machine fly",
+            "description": "A machine exercise that isolates the chest muscles by performing a fly movement while seated.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 56,
+            "name": "Smith machine bench press",
+            "description": "A bench press variation using a Smith machine for added stability, targeting the chest muscles.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 57,
+            "name": "Smith machine incline bench press",
+            "description": "An incline bench press variation using a Smith machine to target the upper chest.",
+            "muscle_group": "Chest"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 58,
+            "name": "Abduction machine",
+            "description": "A machine that targets the hip abductors by performing an outward leg movement, focusing on the outer thighs.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 59,
+            "name": "Adduction machine",
+            "description": "A machine that targets the hip adductors by performing an inward leg movement, focusing on the inner thighs.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 60,
+            "name": "Barbell calf raise",
+            "description": "A calf exercise performed by raising the body on a barbell resting on the shoulders, targeting the calves.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 61,
+            "name": "Barbell front squat",
+            "description": "A squat variation with the barbell positioned in front of the body, primarily targeting the quads and core.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 62,
+            "name": "Barbell glute bridge",
+            "description": "A glute exercise where the barbell is placed on the hips while performing a hip thrust, targeting the glutes and hamstrings.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 63,
+            "name": "Barbell squat",
+            "description": "A compound movement with the barbell placed on the back, targeting the quads, glutes, hamstrings, and lower back.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 64,
+            "name": "Calf press",
+            "description": "A calf exercise performed on a leg press machine, pushing weight with the toes to target the calves.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 65,
+            "name": "Donkey calf raise",
+            "description": "A calf exercise performed while bent forward with a machine or partner applying resistance to the hips, focusing on the calves.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 66,
+            "name": "Glute-ham raise",
+            "description": "An exercise performed on a glute-ham developer machine, targeting the hamstrings and glutes.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 67,
+            "name": "Leg extension machine",
+            "description": "A machine exercise that targets the quadriceps by extending the legs against resistance.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 68,
+            "name": "Leg press",
+            "description": "A machine exercise where the user pushes a weighted platform with their legs, targeting quads, hamstrings, and glutes.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 69,
+            "name": "Lying leg curl machine",
+            "description": "A machine exercise that targets the hamstrings by curling the legs in a lying position.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 70,
+            "name": "Romanian deadlift",
+            "description": "A variation of the deadlift, focusing on the hamstrings and glutes by lowering the barbell while keeping the legs straight.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 71,
+            "name": "Seated calf raise machine",
+            "description": "A machine exercise targeting the calves, performed while seated with a weight on the knees and pushing with the toes.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 72,
+            "name": "Seated leg curl machine",
+            "description": "A machine exercise that targets the hamstrings by curling the legs in a seated position.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 73,
+            "name": "Standing calf raise machine",
+            "description": "A calf exercise performed while standing with weight on the shoulders, lifting the body with the calves.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 74,
+            "name": "Stiff-legged deadlift",
+            "description": "A deadlift variation where the legs are kept straight to emphasize the hamstrings and lower back.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 75,
+            "name": "Sumo deadlift",
+            "description": "A deadlift variation with a wider stance, focusing on the inner thighs, glutes, and lower back.",
+            "muscle_group": "Legs"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 76,
+            "name": "Neck crunch",
+            "description": "An exercise that targets the muscles of the neck by flexing and extending the head against resistance.",
+            "muscle_group": "Neck"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 77,
+            "name": "Neck cable",
+            "description": "An exercise using a cable machine to target the muscles of the neck by applying resistance in various directions.",
+            "muscle_group": "Neck"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 78,
+            "name": "Arnold dumbbell press",
+            "description": "A shoulder exercise involving a rotating dumbbell press, targeting the deltoids from multiple angles.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 79,
+            "name": "Behind the neck barbell press",
+            "description": "A barbell press performed behind the neck, targeting the shoulders, particularly the front and lateral deltoids.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 80,
+            "name": "Cable face pulls",
+            "description": "An exercise using a cable machine to pull a rope attachment towards the face, targeting the rear deltoids and upper back.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 81,
+            "name": "Front dumbbell raise",
+            "description": "A shoulder exercise performed by lifting a dumbbell in front of the body, focusing on the anterior deltoid.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 82,
+            "name": "Hammer strength shoulder press",
+            "description": "A machine exercise that simulates the shoulder press movement, focusing on the deltoid muscles.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 83,
+            "name": "Lateral dumbbell raise",
+            "description": "A shoulder exercise performed by raising a dumbbell to the side, targeting the lateral deltoids.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 84,
+            "name": "Lateral machine raise",
+            "description": "A machine exercise targeting the lateral deltoid by lifting the arms to the side.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 85,
+            "name": "Log press",
+            "description": "A shoulder press using a log-shaped barbell, focusing on shoulder and tricep strength.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 86,
+            "name": "One-arm standing dumbbell press",
+            "description": "A shoulder press variation using one dumbbell at a time, performed while standing to engage the core.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 87,
+            "name": "Overhead press",
+            "description": "A barbell or dumbbell press performed overhead, primarily targeting the deltoids and triceps.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 88,
+            "name": "Push press",
+            "description": "A shoulder press variation that uses leg drive to help press the weight overhead, targeting the deltoids and triceps.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 89,
+            "name": "Rear delt dumbbell raise",
+            "description": "A shoulder exercise targeting the rear deltoids by raising dumbbells to the side while bent forward.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 90,
+            "name": "Rear delt machine fly",
+            "description": "A machine exercise targeting the rear deltoids, performed by pulling the handles outward while seated.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 91,
+            "name": "Seated dumbbell lateral raise",
+            "description": "A variation of the lateral raise performed while seated, targeting the lateral deltoids.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 92,
+            "name": "Seated dumbbell press",
+            "description": "A shoulder press performed while seated with dumbbells, targeting the deltoids and triceps.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 93,
+            "name": "Smith machine overhead press",
+            "description": "An overhead press variation using the Smith machine, focusing on the shoulders and triceps.",
+            "muscle_group": "Shoulder"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 94,
+            "name": "Cable overhead triceps extension",
+            "description": "An exercise performed on a cable machine, where the user extends the arms overhead to target the triceps.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 95,
+            "name": "Close grip barbell bench press",
+            "description": "A bench press variation performed with a narrow grip, focusing more on the triceps than the chest.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 96,
+            "name": "Dumbbell overhead triceps extension",
+            "description": "A triceps exercise performed with a dumbbell, where the weight is extended overhead and lowered behind the head.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 97,
+            "name": "EZ-bar skullcrusher",
+            "description": "An exercise performed with an EZ-bar, where the arms are extended to target the triceps by lowering the bar towards the forehead.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 98,
+            "name": "Lying triceps extension",
+            "description": "A triceps exercise performed lying on a bench, extending the arms with a barbell or dumbbells to target the triceps.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 99,
+            "name": "Parallel bar triceps dip",
+            "description": "A bodyweight exercise performed on parallel bars, focusing on the triceps as the body is lowered and raised.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 100,
+            "name": "Ring dip",
+            "description": "A triceps exercise performed using gymnastic rings, engaging the triceps, shoulders, and chest as the body is lowered and raised.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 101,
+            "name": "Rope push down",
+            "description": "An exercise performed on a cable machine with a rope attachment, pushing the rope down to extend the triceps.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 102,
+            "name": "Smith machine close grip bench press",
+            "description": "A close grip bench press variation performed using the Smith machine, targeting the triceps and chest.",
+            "muscle_group": "Triceps"
+        }
+    },
+    {
+        "model": "workouts.exercise",
+        "fields": {
+            "id": 103,
+            "name": "V-bar push down",
+            "description": "A triceps exercise performed on a cable machine with a V-bar attachment, pushing down to target the triceps.",
+            "muscle_group": "Triceps"
+        }
+    }
+]
