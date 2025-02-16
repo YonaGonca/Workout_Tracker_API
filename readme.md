@@ -124,7 +124,7 @@ If you want to contribute, feel free to fork the repository and submit a pull re
 
 ## Acknowledgments
 - Python for providing the tools to develop this API.
-- [roadmap.sh](https://roadmap.sh/projects/task-tracker) for inspiring project ideas.
+- [roadmap.sh](https://roadmap.sh/projects/fitness-workout-tracker) for inspiring project ideas.
 - Django and the open-source community for their documentation and support.
 - PostgreSQL for its reliability and performance in managing databases.
 
