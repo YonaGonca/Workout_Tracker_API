@@ -48,7 +48,7 @@ It includes JWT authentication and OpenAPI documentation with Swagger.
 5. Apply migrations and load initial data:
     ```bash
     python manage.py migrate
-    python manage.py loaddata fixtures/exercises.json  # Optional, loads predefined exercises
+    python manage.py loaddata workouts/fixtures/exercise_data.json  # Optional, loads predefined exercises
     ```
 
 6. Create a superuser:
