@@ -1,7 +1,7 @@
-# Workout Project
+# Workout Tracker API
 
 ## Description
-Workout Project is a REST API developed with Django and Django Rest Framework that allows managing workout routines, exercises, and schedules.
+REST API developed with Django and Django Rest Framework that allows managing workout routines, exercises, and schedules.
 It includes JWT authentication and OpenAPI documentation with Swagger.
 
 ## Technologies Used
